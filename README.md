@@ -1,1 +1,1 @@
-# curriculo
+# curriculo - projeto importado
